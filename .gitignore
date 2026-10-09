@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### LeetCode Plugin ###
+.lcpr_data
+*.json
